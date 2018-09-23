@@ -13,12 +13,3 @@ indent_size = 4
 
 [**.{md,scss}]
 trim_trailing_whitespace = false
-
-[{node_modules,vendor,bower_components}/**]
-indent_style = ignore
-indent_size = ignore
-end_of_line = ignore
-charset = ignore
-trim_trailing_whitespace = ignore
-insert_final_newline = ignore
-spaces_around_operators = ignore
